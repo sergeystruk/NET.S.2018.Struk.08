@@ -1,0 +1,2 @@
+D:\Sergey\EPAM\NET.S.2018.Struk.08\BankSystem\obj\Debug\BankSystem.csprojResolveAssemblyReference.cache
+D:\Sergey\EPAM\NET.S.2018.Struk.08\BankSystem\obj\Debug\BankSystem.csproj.CoreCompileInputs.cache
